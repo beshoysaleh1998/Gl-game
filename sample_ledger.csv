@@ -1,0 +1,4 @@
+id,user,company,department,account,date,description,debit,credit
+a1,admin,01 - MainCo,01 - Finance,1000 - Cash,2025-08-09,Opening cash,10000.0,0.0
+a2,finance_user,01 - MainCo,01 - Finance,5000 - Expense,2025-08-09,Stationery,0.0,150.0
+a3,admin,02 - Subsidiary,01 - Sales,4000 - Revenue,2025-08-09,Sale,0.0,2000.0
